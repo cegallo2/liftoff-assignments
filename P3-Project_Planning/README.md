@@ -14,7 +14,8 @@ Include at least 3 wireframes here, adding images or files to your repository as
 ### Project Tracker
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+-Link to trello board: https://trello.com/b/CONDerw6/liftoff-project
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+Include a link to your project on GitHub. -Link to project repo: https://github.com/cegallo2/rinrussite
